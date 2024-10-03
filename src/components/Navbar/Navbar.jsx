@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className=" ">
         <h1 className="text-slate-400 font-bold text-3xl p-2  rounded-sm">
-          Grocentials.
+        xFood
         </h1>
       </div>
 
